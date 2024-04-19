@@ -23,7 +23,11 @@ Please refer to appropriate guidelines for installation of the required packages
 
 # How to use and get started
 
-Clone the repository to your local machine using Git, or download the source code as a ZIP file and extract it. Please refer to the <a href="https://github.com/sohrabganjian/Proof-of-Quantumness-Non-local-games/blob/main/Tutorial.ipynb">Tutorial.ipynb</a> Jupyter notebook for a tutorial and how to get started. 
+Clone the repository to your local machine using Git, or download the source code as a ZIP file and extract it. The Python codes are currently contained in `ipynb` files, which stands for Interactive Python Notebook. We recommend openning these files using the Jupyter Notebook. The instructions for installing Jupyter Notebook can be found at the following link:
+https://docs.jupyter.org/en/latest/install/notebook-classic.html
+
+
+Please refer to the <a href="https://github.com/sohrabganjian/Proof-of-Quantumness-Non-local-games/blob/main/Tutorial.ipynb">Tutorial.ipynb</a> Jupyter notebook for a tutorial and how to get started. 
 
 
 
