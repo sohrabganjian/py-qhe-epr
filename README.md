@@ -27,7 +27,7 @@ Clone the repository to your local machine using Git, or download the source cod
 https://docs.jupyter.org/en/latest/install/notebook-classic.html
 
 
-Please refer to the <a href="https://github.com/sohrabganjian/Proof-of-Quantumness-Non-local-games/blob/main/Tutorial.ipynb">Tutorial.ipynb</a> Jupyter notebook for a tutorial and how to get started. 
+Please refer to the <a href="https://github.com/sohrabganjian/py-qhe-epr/blob/main/Tutorial.ipynb">Tutorial.ipynb</a> Jupyter notebook for a tutorial and how to get started. 
 
 
 
