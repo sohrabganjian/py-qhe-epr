@@ -38,4 +38,6 @@ Please refer to the <a href="https://github.com/sohrabganjian/py-qhe-epr/blob/ma
 
 # References
 
-- [Quantum homomorphic encryption for circuits of low T-gate complexity](https://arxiv.org/pdf/1412.8766.pdf) - Anne Broadbent and Stacey Jeffery (2015)
+- [Quantum homomorphic encryption for circuits of low T-gate complexity](https://arxiv.org/pdf/1412.8766.pdf) - Anne Broadbent, Stacey Jeffery (2015)
+
+- [Demonstrating Quantum Homomorphic Encryption Through Simulation](https://arxiv.org/abs/2406.16247) - Sohrab Ganjian, Connor Paddock, Anne Broadbent (2024)
